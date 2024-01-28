@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js" defer></script>
+    <title>Site De Running</title>
+</head>
+
+<body>
+    <div id="overlay"></div>
+
+     <!-- Menu Pour Mobile -->
+    <div id="mobile-menu" class="mobile-main-menu">
+      <ul>
+        <li><a href="https://www.nyrr.org/run/race-calendar">Courses</a></li>
+        <li><a href="https://www.runnersneed.com/c/shoes/race-lightweight-shoes.html">Shop</a></li>
+
+        <li class="mobile-only"><a href="falcon9.html">Falcon 9</a></li>
+        <li class="mobile-only">
+          <a href="falcon-heavy.html">Falcon Heavy</a>
+        </li>
+        <li class="mobile-only"><a href="dragon.html">Dragon</a></li>
+      </ul>
+    </div>
+
+ <!-- Menu Pour Mobile -->
+ <div id="mobile-menu" class="mobile-main-menu">
+  <ul>
+    <li><a href="#">Courses</a></li>
+    <li><a href="#">Shop</a></li>
+    <li class="mobile-only"><a href="index.html">Welcome</a></li>
+    <li class="mobile-only"><a href="signup.html">SignUp</a></li>
+    <li class="mobile-only"><a href="signin.html">SignIn</a></li>
+  </ul>
+</div>
+
+ <!-- Header et Menu-->
+<header class="main-header">
+  <div class="logo">
+    <a href="index.html">
+      <img src="img/logoRunning.png" alt="SpaceX" />
+    </a>
+  </div>
+  <nav class="desktop-main-menu">
+    <ul>
+      <li><a href="index.html">Welcome</a></li>
+      <li><a href="signin.html">Sign In</a></li>
+      <li><a href="signup.html">Sign Up</a></li>
+      <li><a href="indexP.html">Race</a></li>
+    </ul>
+  </nav>
+</header>
+
+<!-- Hamburger Menu -->
+<button id="menu-btn" class="hamburger" type="button">
+  <span class="hamburger-top"></span>
+  <span class="hamburger-middle"></span>
+  <span class="hamburger-bottom"></span>
+</button>
+
+    <!-- Section A -->
+    <section class="section-a">
+      <div class="section-inner">
+        <!-- <h2 class="text-center">sign up&nbsp;&nbsp;</h2> -->
+        <div class="contact-clean">
+            <form method="post">
+                <h2 class="text-center">sign up&nbsp;&nbsp;</h2>
+                <div class="form-group"><input class="form-control" type="text" name="name" placeholder="Name" id="Nom"></div>
+                <div class="form-group"><input class="form-control" type="text" name="prénom" placeholder="First name" id="Prenom"></div>
+                <div class="form-group"><input class="form-control" type="email" name="email" placeholder="Email" id="mail"></div>
+                <div class="form-group"><input class="form-control" type="password" name="password" placeholder="password" id="MotDePasse1">
+                  <small class="textM">Veuillez enter un mot de pass de longueur minimum 8 caractères</small>
+                </div>
+                <div class="form-group"><textarea class="form-control" name="message" placeholder="Message" rows="14"></textarea></div>
+                <div class="form-group">
+                    <div class="form-check">
+                      <input class="form-check-input" type="checkbox" id="formCheck-1">
+                        <label class="form-check-label" for="formCheck-1">I am of age</label>
+                    </div>
+                    <button class="btn btn-primary" type="submit" onClick=verifierFormulaire()>send </button>
+                </div>
+            </form>
+        </div>
+      </div>
+    </section>
+
+    
+
+    <footer>
+      <ul>
+        <li>Running For All &copy; 2023</li>
+        <li><a href="https://twitter.com/">Twitter</a></li>
+        <li><a href="https://www.youtube.com">YouTube</a></li>
+        <li><a href="https://www.instagram.com">Instagram</a></li>
+        <li><a href="https://www.linkedin.com">LinkedIn</a></li>
+      </ul>
+    </footer>
+</body>
+
+</html>

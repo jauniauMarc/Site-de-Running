@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13406227&assignment_repo_type=AssignmentRepo)
 
 # Devoir de Site de Running
@@ -47,3 +48,6 @@ Cette commande établit un push forcé du contenu de la branche `master` de `myr
 
 
 N'hésitez pas à explorer le code, poser des questions et contribuer activement au projet. Bon codage!
+=======
+# Site-de-Running
+>>>>>>> original/main
