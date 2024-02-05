@@ -1,0 +1,124 @@
+[
+    {
+      "nom": "mohamed tobji",
+      "email": "mohamed.tobji@lycee-jeanrostand.fr",
+      "gender": "Male",
+      "profil_image":"https://avatars.githubusercontent.com/u/63978904?v=4",
+      "markers": [
+        {
+          "id": "1",
+          "latLng": {"lat":48.72755183170958,"lng": 4.588320285066152},
+          "namePlace":"Ecole Jule Ferry",
+          "commentaire": "mon école primaire, pleins de merveilleux souvenirs...",
+          "photo": "https://drive.google.com/uc?export=view&id=1MnjmoMVKhOhU9B_YAZaS-3AhkbX4n4Gh"
+          
+        }     
+      ]
+    },
+ 
+        {
+          "nom": "moussa mechehar",
+          "email": "moussa.mechehar@lycee-jeanrostand.fr",
+          "gender": "Male",
+          "profil_image":"https://avatars.githubusercontent.com/u/63978904?v=4",
+          "markers": [
+        {
+          "id": "2",
+          "latLng": {"lat":-21.048030870205075,"lng": 55.42723753807348},
+          "namePlace":"Île de la Réunion, cirque de Mafat",
+          "commentaire": "une jolie randonnée en 2014!",
+          "photo": "https://habiter-la-reunion.re/wp-content/uploads/2020/02/mafate_ile_Re%CC%81union.jpg"
+          
+        }     
+      ]
+    },
+  
+
+    {
+      "nom": "thomas lavarenne",
+      "email": "thomas.lavarenne@lycee-jeanrostand.fr",
+      "gender": "Male",
+      "profil_image":"https://avatars.githubusercontent.com/u/63978904?v=4",
+      "markers": [  
+      {
+          "id": "3",
+          "latLng": {"lat":22.8390998756966545,"lng": 59.24538811292267},
+          "namePlace":"Oman",  
+          "commentaire": "Wadi Sham, encore une belle baignade dans ce lieu magique!",
+          "photo": "https://www.musafir.com//SFImage/Images/wadi-shab.png"
+      }
+    ]
+  },
+
+    {
+      "nom": "tom cruise",
+      "email": "tom.cruse@hollywood.com",
+      "gender": "Male",
+      "profil_image":"https://avatars.githubusercontent.com/u/144660845?v=4",
+      "markers": [
+        {
+          "id": "4",
+          "latLng": {"lat":22.8390998756966545,"lng": 59.24538811292267},
+          "namePlace":"tower burges kalifa",
+          "commentaire": "mission impossible!",
+          "photo": "https://jsonformatter.org/img/tom-cruise.jpg",
+          "profil_image":"https://avatars.githubusercontent.com/u/144660845?v=4"
+        }
+      ]
+    },
+ 
+    {
+      "nom": "maria sharapova",
+      "email": "maria.sharapova@rolland-garros.com",
+      "gender": "female",
+      "profil_image":"https://avatars.githubusercontent.com/u/145962738?v=4",
+      "markers": [
+        {
+          "id": "5",
+          "latLng": {"lat":49.00721978474969,"lng": 2.2803426018162662},
+          "namePlace":"Rolland Garros",
+          "commentaire": "Joueuse de tennis russe",
+          "photo": "https://assets.sport.francetvinfo.fr/sites/default/files/styles/large_16_9/public/import-articles/shara_ec733b7cc46493b482a8bea4b138f723.jpg?itok=QUiN5RDG"
+        
+        }
+      ]
+    },
+
+    {
+      "nom": "madani mohamed",
+      "email": "madani.mohamed@lycee-jeanrostand.fr",
+      "gender": "Male",
+      "profil_image":"https://avatars.githubusercontent.com/u/145962738?v=4",
+      "markers": [
+        {
+          "id": "6",
+          "latLng": {"lat":49.00721978474969,"lng": 2.2803426018162662},
+          "namePlace":"prof de ciel",
+          "commentaire": "jean rostand",
+          "photo": "https://assets.sport.francetvinfo.fr/sites/default/files/styles/large_16_9/public/import-articles/shara_ec733b7cc46493b482a8bea4b138f723.jpg?itok=QUiN5RDG"
+        
+        }
+      ]
+    },
+
+    {
+      "nom": "marc jauniau",
+      "email": "marc.jauniau@lycee-jeanrostand.fr",
+      "gender": "Male",
+      "profil_image":"https://avatars.githubusercontent.com/u/144659851?v=4",
+      "markers": [
+        {
+          "id": "7",
+          "latLng": {"lat":49.00721978474969,"lng": 2.2803426018162662},
+          "namePlace":"Drancy",
+          "commentaire": "Eleve de ciel",
+          "photo": "https://assets.sport.francetvinfo.fr/sites/default/files/styles/large_16_9/public/import-articles/shara_ec733b7cc46493b482a8bea4b138f723.jpg?itok=QUiN5RDG"
+        
+        }
+      ]
+    }
+   ]
+  
+ 
+ 
+   
