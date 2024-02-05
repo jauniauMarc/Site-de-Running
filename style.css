@@ -594,3 +594,10 @@ footer ul li a:hover {
 .textM {
   visibility: hidden;
 }
+
+.desktop-main-menu ul li a img {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  object-fit: cover;
+}
