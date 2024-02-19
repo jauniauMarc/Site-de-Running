@@ -10,13 +10,13 @@ app.use(express.static('.'));
 app.use(express.json())
 
 
-// Définir la route http://127.0.0.1:3001/ pour index.html
+// Définir la route http://127.0.0.1:3003/ pour index.html
 app.get('http://127.0.0.1:3001/', (req, res) => {
     res.sendFile(path.join(__dirname, 'index.html'));
   });
 
 
-  // Définir la route http://127.0.0.1:3001/todo pour indexTodo.html
+  // Définir la route http://127.0.0.1:3003/todo pour indexTodo.html
 app.get('http://127.0.0.1:3001/todo', (req, res) => {
   res.sendFile(path.join(__dirname, 'indexTodo.html'));
 });
@@ -30,4 +30,4 @@ app.get('http://127.0.0.1:3001/todo', (req, res) => {
 
 
 
-app.listen(3001)
+app.listen(3003)
